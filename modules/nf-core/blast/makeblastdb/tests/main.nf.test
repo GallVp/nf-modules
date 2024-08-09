@@ -36,7 +36,7 @@ nextflow_process {
                         'genome.fasta.nto'
                     ]
 
-                    def stable_files = all_files.findAll { it.name in stable_file_names }
+                    def stable_files = all_files.findAll { it.name in stable_file_names }.toSorted()
 
                     assert snapshot(
                         all_files.collect { it.name }.toSorted(),
@@ -76,7 +76,7 @@ nextflow_process {
                         'genome.fasta.nto'
                     ]
 
-                    def stable_files = all_files.findAll { it.name in stable_file_names }
+                    def stable_files = all_files.findAll { it.name in stable_file_names }.toSorted()
 
                     assert snapshot(
                         all_files.collect { it.name }.toSorted(),
