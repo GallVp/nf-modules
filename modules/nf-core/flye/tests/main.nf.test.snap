@@ -8,9 +8,16 @@
                     },
                     "test.params.json:md5,54b576cb6d4d27656878a7fd3657bde9"
                 ]
+            ],
+            [
+                "versions.yml:md5,ccedfdf008b633bff8f062c5c2f2f827"
             ]
         ],
-        "timestamp": "2023-10-18T09:38:04.835173617"
+        "meta": {
+            "nf-test": "0.8.4",
+            "nextflow": "24.04.4"
+        },
+        "timestamp": "2024-08-09T13:45:06.155855"
     },
     "flye_pacbio_hifi": {
         "content": [
@@ -21,9 +28,16 @@
                     },
                     "test.params.json:md5,54b576cb6d4d27656878a7fd3657bde9"
                 ]
+            ],
+            [
+                "versions.yml:md5,ccedfdf008b633bff8f062c5c2f2f827"
             ]
         ],
-        "timestamp": "2023-10-18T08:38:39.624137639"
+        "meta": {
+            "nf-test": "0.8.4",
+            "nextflow": "24.04.4"
+        },
+        "timestamp": "2024-08-09T13:19:37.119379"
     },
     "flye_nano_raw": {
         "content": [
@@ -34,9 +48,16 @@
                     },
                     "test.params.json:md5,54b576cb6d4d27656878a7fd3657bde9"
                 ]
+            ],
+            [
+                "versions.yml:md5,ccedfdf008b633bff8f062c5c2f2f827"
             ]
         ],
-        "timestamp": "2023-10-18T09:51:24.546896915"
+        "meta": {
+            "nf-test": "0.8.4",
+            "nextflow": "24.04.4"
+        },
+        "timestamp": "2024-08-09T13:55:33.656694"
     },
     "flye_pacbio_corr": {
         "content": [
@@ -47,9 +68,16 @@
                     },
                     "test.params.json:md5,54b576cb6d4d27656878a7fd3657bde9"
                 ]
+            ],
+            [
+                "versions.yml:md5,ccedfdf008b633bff8f062c5c2f2f827"
             ]
         ],
-        "timestamp": "2023-10-18T08:34:15.751344742"
+        "meta": {
+            "nf-test": "0.8.4",
+            "nextflow": "24.04.4"
+        },
+        "timestamp": "2024-08-09T13:18:24.584393"
     },
     "flye_nano_corr": {
         "content": [
@@ -60,9 +88,16 @@
                     },
                     "test.params.json:md5,54b576cb6d4d27656878a7fd3657bde9"
                 ]
+            ],
+            [
+                "versions.yml:md5,ccedfdf008b633bff8f062c5c2f2f827"
             ]
         ],
-        "timestamp": "2023-10-18T09:17:49.861781685"
+        "meta": {
+            "nf-test": "0.8.4",
+            "nextflow": "24.04.4"
+        },
+        "timestamp": "2024-08-09T13:21:44.141693"
     },
     "flye_nano_hq": {
         "content": [
@@ -73,8 +108,15 @@
                     },
                     "test.params.json:md5,54b576cb6d4d27656878a7fd3657bde9"
                 ]
+            ],
+            [
+                "versions.yml:md5,ccedfdf008b633bff8f062c5c2f2f827"
             ]
         ],
-        "timestamp": "2023-10-18T09:26:29.081427909"
+        "meta": {
+            "nf-test": "0.8.4",
+            "nextflow": "24.04.4"
+        },
+        "timestamp": "2024-08-09T13:23:39.069529"
     }
 }
